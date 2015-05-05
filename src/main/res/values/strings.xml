@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">wAndroid-side-bar</string>
+
+    <string name="store_projects">Projects</string>
+    <string name="store_issues">Issues</string>
+    <string name="store_members">Members</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_new_element">New element</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
